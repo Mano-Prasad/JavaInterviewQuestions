@@ -9,6 +9,7 @@ package patternPrograms;
 *
   
             */
+
 public class QuestionNo_2 {
 
 	public static void main(String[] args) {
@@ -23,13 +24,7 @@ public class QuestionNo_2 {
 
 }
 
-//a[contains(class,'llll')]
-//a[contains(text(),'llll')]
-
-//a[starts-with(class,'llll')]
-//a[starts-with(text(),'llll')]
-
-//a[@class='llll']
+]
 
 //a[@class='llll'][placeholder='kkkk']
 
