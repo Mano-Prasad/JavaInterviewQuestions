@@ -23,11 +23,3 @@ public class QuestionNo_2 {
 	}
 
 }
-
-]
-
-//a[@class='llll'][placeholder='kkkk']
-
-//a[text()='llll']
-
-//a[normalize-space(text()='kkkk')]
